@@ -13,5 +13,6 @@ public class ConsolOutput {
     	
     	System.out.print("안녕 \n");
     	System.out.println("하세요. ");
+            System.out.println("바보");
 	}
 }
